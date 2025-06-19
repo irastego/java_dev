@@ -13,7 +13,7 @@ public class Zadatak {
         for (int i = rijeci.length - 1; i >= 0; i--) {
             System.out.print(rijeci[i]);
             if (i != 0) {
-                System.out.print("Some text");
+                System.out.print("Some text to print line");
             }
         }
     }
