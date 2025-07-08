@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Modul-2/Modul-2.iml" filepath="$PROJECT_DIR$/Modul-2/Modul-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UsingIO/UsingIO.iml" filepath="$PROJECT_DIR$/UsingIO/UsingIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadatak/Zadatak.iml" filepath="$PROJECT_DIR$/Zadatak/Zadatak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadatak-PI/Zadatak-PI.iml" filepath="$PROJECT_DIR$/Zadatak-PI/Zadatak-PI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modul-2/Zadatak1/Zadatak1.iml" filepath="$PROJECT_DIR$/Modul-2/Zadatak1/Zadatak1.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modul-1/vjezba/vjezba.iml" filepath="$PROJECT_DIR$/Modul-1/vjezba/vjezba.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modul-1/zadatak3/zadatak3.iml" filepath="$PROJECT_DIR$/Modul-1/zadatak3/zadatak3.iml" />
