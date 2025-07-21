@@ -1,0 +1,5 @@
+Automobil,ZG-1234-AB,Volkswagen,2019,5
+Motocikl,RI-555-XY,Kawasaki,2021,benzinski
+Automobil,ST-987-CD,Audi,2022,3
+Automobil,OS-456-EF,Renault,2018,5
+Motocikl,PU-777-GH,Vespa,2020,skuter

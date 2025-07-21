@@ -1,0 +1,4 @@
+Student|Ana|Anic|2049421123
+Student|Marko|Markic|2049421323
+Profesor|Ivan|Ivic|98765432101
+Student|Josip|Josipic|2049421423
