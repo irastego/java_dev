@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Modul-2/Modul-2.iml" filepath="$PROJECT_DIR$/Modul-2/Modul-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/UsingIO/UsingIO.iml" filepath="$PROJECT_DIR$/UsingIO/UsingIO.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Zadatak/Zadatak.iml" filepath="$PROJECT_DIR$/Zadatak/Zadatak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaCollections/JavaCollections.iml" filepath="$PROJECT_DIR$/JavaCollections/JavaCollections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Zadatak-PI/Zadatak-PI.iml" filepath="$PROJECT_DIR$/Zadatak-PI/Zadatak-PI.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Modul-2/Zadatak1/Zadatak1.iml" filepath="$PROJECT_DIR$/Modul-2/Zadatak1/Zadatak1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ZadatakIO/ZadatakIO.iml" filepath="$PROJECT_DIR$/ZadatakIO/ZadatakIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadatak1/Zadatak1.iml" filepath="$PROJECT_DIR$/Zadatak1/Zadatak1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadatak1.3.2/Zadatak1.3.2.iml" filepath="$PROJECT_DIR$/Zadatak1.3.2/Zadatak1.3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadatak1.3.3/Zadatak1.3.3.iml" filepath="$PROJECT_DIR$/Zadatak1.3.3/Zadatak1.3.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vjezba/Zadatak1.4.3.iml" filepath="$PROJECT_DIR$/vjezba/Zadatak1.4.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadatak1.4.4/Zadatak1.4.4.iml" filepath="$PROJECT_DIR$/Zadatak1.4.4/Zadatak1.4.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadatak1.5.3/Zadatak1.5.3.iml" filepath="$PROJECT_DIR$/Zadatak1.5.3/Zadatak1.5.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadatak2/Zadatak2.iml" filepath="$PROJECT_DIR$/Zadatak2/Zadatak2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadatak3/Zadatak3.iml" filepath="$PROJECT_DIR$/Zadatak3/Zadatak3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadatak4/Zadatak4.iml" filepath="$PROJECT_DIR$/Zadatak4/Zadatak4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zadatak7-Skupovi u javi/Zadatak7-Skupovi u javi.iml" filepath="$PROJECT_DIR$/Zadatak7-Skupovi u javi/Zadatak7-Skupovi u javi.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Modul-1/vjezba/vjezba.iml" filepath="$PROJECT_DIR$/Modul-1/vjezba/vjezba.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Modul-1/zadatak3/zadatak3.iml" filepath="$PROJECT_DIR$/Modul-1/zadatak3/zadatak3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/petlje/petlje.iml" filepath="$PROJECT_DIR$/petlje/petlje.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zadatak1.4.1/zadatak1.4.1.iml" filepath="$PROJECT_DIR$/zadatak1.4.1/zadatak1.4.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zadatak5/zadatak5.iml" filepath="$PROJECT_DIR$/zadatak5/zadatak5.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,5 @@
+Ante Cash, (br.indeksa: 105), prosjek: 4.5
+Ana Anic, (br.indeksa: 100), prosjek: 5.0
+Marko Stefancic, (br.indeksa: 101), prosjek: 5.0
+Alen Hrzica, (br.indeksa: 110), prosjek: 3.9
+Matea Matic, (br.indeksa: 113), prosjek: 4.3
