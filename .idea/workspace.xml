@@ -7,13 +7,6 @@
     <list default="true" id="563b0786-b522-4d35-9523-1a2b1488f4f7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadatak-ParcijalniIspit/Zadatak-PI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Zadatak-PI/Zadatak-PI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadatak-ParcijalniIspit/src/Automobil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadatak-PI/src/Automobil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadatak-ParcijalniIspit/src/EvidencijaVozila.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadatak-PI/src/EvidencijaVozila.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadatak-ParcijalniIspit/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadatak-PI/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadatak-ParcijalniIspit/src/Motocikl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadatak-PI/src/Motocikl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadatak-ParcijalniIspit/src/NeispravniPodaciException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadatak-PI/src/NeispravniPodaciException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadatak-ParcijalniIspit/src/Vozilo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadatak-PI/src/Vozilo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
